@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "redditdata-453600",
+  "private_key_id": "8caeca1b93ec0a76d01444e82808f30069a6bd32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1ASa0BT24DEOS\nl71zJcC4jaBNLk9VYColTVmF2wV6mmAcG/XoAC6Fu561I4SovanUJpkk97ZhAHvU\nwbOEjDF01ixOHAc5gfiAkgBUWAJsjfzhLM2sX0LQrZXDN5OFArrODmBZNQ00WVlt\nnUnG4M7LLJtf3AZ/0rViIRrNNJSsit/sSkTvHNOc1G0xmoW3xkS9xMZ1nT0z98nE\n7QGU9SCBudcaDmTJM33uEGpWUHxikYOqWKX8lTZaSB5JgLA4kKIJqU4ZlgOdWQDE\nku5kweESsZKQbDKQwPvhCyZwOmBU9moPYW+UY/NHdJdCrnjZiTkXFmBhXS1PrG6a\nAPCk3upPAgMBAAECggEAT/9bQLMUTRS2hMKly4+C9s45bAMssvoWhngCOgPMDxzN\nn37IFyqFZTu/8CTri7yPo6EPjGQi6gpRsH2PvuRLM205FaiTlNoZn5Fnrd9b6uhy\nPH8Vw7oyiJI/n5EflOjY8RsvgB3PYTSgLq8WnVxcaTWk0iAnizTwT5d8BffYQc08\nnWa6GTXMh3Mm8MATd8hsbDUmTgU6C54S1UuAOJtLP6Q9p0OsSis4Td21xngUn4ZK\nKimuA9dyJ67nY6lATZsZSbtd2NwDbohiEAAthulvIagWaiVSDyuJrKQvnFPKn3Vo\ndI92AkxV/Mt1R83ohFyeMiEDd3DIUqEHSqWF9exF2QKBgQDh0pme5WsaARGW2j1W\nxM1Kvt9KM912662MX/zlL2woGZmUexSzUvEN9AMR/iD68poRqalzoXLsqcyv+17i\n4oW7JXGlSKmR2G87QqAxSVWMYgU4/Pn+2UL2j6AeLVfc+1c82B7Vri8R20cuF8g8\ncU/+uvECVpdrxxBIsNBzUzktCwKBgQDNMVIMYGX+CnRFRWMISrX7E8RvQ1pdJNa2\nBjusZbdRxVj7Ri7yl6nijhxEaaIwoflkeeS/ANsfTMuDfo0ZSxaj2tWRQFcBMQh8\n7u45/agBnlvDGANuLW74eXcn9+gHUhdgrCWUhNUdlVnShqyShlENDGfIFFVRXR0i\nXp/6jZPaTQKBgQCMY6gbb5cI4Jc1yFGP6uORz13zvJC3CMeo2FfZh4Te3SNseqQg\n47R2rzdlbS7FtCLyTh7Jgxp2ZQ2ablTMCnWHJj0juyuoPvzPw5jhayzjDGEgz6z/\nscP+ksXBXQEdoafXbKimwRYELOVwk1ppsSxBOajxgjG60FOgTUQaHigShwKBgAys\njzTUf3hBjQz6TDOm6baocemtb1dxfxGfMPBlF/2lAuoCW8QAOi4UOQrAu5PlbVIX\ndVmW4/H6/FcS6gQ17yAP1EE0iCs6rBuLZouOb2IqNeDHCu8zPzd5yTJezaYmG+uM\ntoWF7uP05adrSh2Czl7P9VkWaG6uIa6NybPgKtHBAoGAP9uQ8lcicY+Y47cDz8yS\n3nKPV2C1czXh7ADIspfLwzk8fbj9mgzEISxz2qMEZ/QmcjD8rGPQwLFnz0yOs+Hh\nBEcPmG1+fYTtI8WyphOug2cySJ9OQd+bjlHiX7S01qeWSow0ovqw5589AmWM4tSv\ncofuvsIisWFAbt4VStBWXTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "redditdata@redditdata-453600.iam.gserviceaccount.com",
+  "client_id": "115079332793641513378",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redditdata%40redditdata-453600.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+

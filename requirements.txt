@@ -1,0 +1,5 @@
+streamlit
+praw
+gspread
+oauth2client
+streamlit-autorefresh
